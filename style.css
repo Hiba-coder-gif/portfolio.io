@@ -1,0 +1,32 @@
+/* Styles généraux pour la page */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('autumn-canada.jpg'); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+header {
+    background: linear-gradient(45deg, #b22222, #f5deb3);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+
+footer {
+    background: linear-gradient(45deg, #b22222, #f5deb3);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 1em;
+}
+
